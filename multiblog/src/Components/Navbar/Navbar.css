@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar_container{
+    padding: 2vh 20vw;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.navbar_container > a{
+    text-decoration: none;
+}
+
+.navbar_container > a > div{
+    font-size: 1em;
+    color: rgb(89, 89, 160);
+    font-weight: 600;
+    cursor: pointer;
+}

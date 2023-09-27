@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.about_container{
+    text-align: center;
+}
+
+.about_container > h2 {
+    padding: 2vh;
+    color: indianred;
+}
